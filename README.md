@@ -21,5 +21,6 @@ This is my first Python project! I'm documenting my coding journey here on GitHu
 
 python snake_game.py
 
-'## Week 0'
+'''
+## Week 0
 
