@@ -1,9 +1,9 @@
-# Snake Game in Python 🐍🎮
+# Snake Game in Python 🐍🎮 
 
 Tutorial by: https://www.youtube.com/@TokyoEdTech
 
 A simple Snake Game built with Python's `turtle` module.  
-This is part of my coding journey as I learn Python.  
+This is my first Python project! I'm documenting my coding journey here on GitHub as I learn and build projects.
 
 ## Controls
 - W = Up
@@ -20,3 +20,5 @@ This is part of my coding journey as I learn Python.
 ```bash
 
 python snake_game.py
+
+## Week 0
