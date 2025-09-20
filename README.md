@@ -23,4 +23,5 @@ python snake_game.py
 
 ```
 ## Week 0
+09/15/2025 - 09/21/2025
 
